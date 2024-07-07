@@ -1,6 +1,6 @@
 # K-Nearest Neighbours (KNN) Algorithm - README
 
-This README file provides an overview of the `k`-Nearest Neighbours (KNN) algorithm implementation and the tasks associated with it. The KNN algorithm is a simple, yet effective, machine learning algorithm used for classification and regression tasks.
+This README file provides an overview of the `k`-Nearest Neighbours (KNN) algorithm implementation. The KNN algorithm is a simple, yet effective, machine learning algorithm used for classification and regression tasks.
 
 ## 1. Implementation of KNN Algorithm
 
