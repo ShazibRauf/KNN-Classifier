@@ -17,3 +17,19 @@ To predict the class label for a test point \( x^* \):
 2. Identify the `k` training points with the smallest distances to \( x^* \).
 3. Fetch the class labels corresponding to these `k` nearest neighbors.
 4. Determine the class label that appears most frequently among these `k` neighbors. In case of a tie, choose the smallest class label deterministically.
+
+### Required Libraries
+
+Install the necessary Python libraries:
+
+```bash
+pip install numpy matplotlib scikit-learn
+```
+
+### Run
+
+Run the following command:
+
+```bash
+python knn_classifier.ipynb
+```
