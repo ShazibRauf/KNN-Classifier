@@ -26,7 +26,7 @@ Install the necessary Python libraries:
 pip install numpy matplotlib scikit-learn
 ```
 
-### Run
+### Usage
 
 Run the following command:
 
